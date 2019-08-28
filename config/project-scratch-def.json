@@ -1,0 +1,18 @@
+{
+  "orgName": "service-with-heroku",
+  "edition": "Developer",
+  "features": [
+    "FieldService",
+    "LightningServiceConsole",
+    "ServiceCloud",
+    "ServiceUser"
+  ],
+  "settings": {
+    "orgPreferenceSettings": {
+      "networksEnabled": false,
+      "s1DesktopEnabled": true,
+      "pathAssistantsEnabled": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
